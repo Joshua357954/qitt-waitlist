@@ -19,6 +19,7 @@ export default function Signup({
           height={130}
           unoptimized
           alt="Qitt Logo"
+          
         />
         <div className="h-8 flex justify-center items-center px-3 py-2 rounded-full bg-[#D3FAD9] text-[#00934D]">
           Coming Soon!
