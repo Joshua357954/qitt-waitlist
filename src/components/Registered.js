@@ -4,7 +4,7 @@ import React from "react";
 import toast from "react-hot-toast";
 
 export default function Registered() {
-  const websiteLink = "tinyurl.com/useqitt";
+  const websiteLink = "https://useqitt.com";
   const handleCopy = async () => {
     try {
       await navigator.clipboard.writeText(websiteLink);
